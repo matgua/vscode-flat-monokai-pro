@@ -1,2 +1,3 @@
 # flat-monokai-pro
-Config for Visual Studio Code that gives to Monokai Pro a more “Flat” look
+
+Just paste the relevant code from `settings.json` in your `settings.json`.
